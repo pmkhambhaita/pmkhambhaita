@@ -1,4 +1,5 @@
-## 👋 Hi there! I'm Praveet, a student and aspiring computer scientist!
+## 👋 Hi there! 
+### I'm Praveet, a student and aspiring computer scientist!
 
 ![](https://komarev.com/ghpvc/?username=pmkhambhaita)
 
