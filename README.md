@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything!
 - 📫 How to reach me: pmkhambhaita@outlook.com
 - 😄 Pronouns: He/Him
+
+[![Praveet's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmkhambhaita)](https://github.com/anuraghazra/github-readme-stats)
