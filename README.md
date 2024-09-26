@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 [![Praveet's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmkhambhaita)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pmkhambhaita&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
