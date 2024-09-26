@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Hi there! I'm Praveet, a student and aspiring computer scientist!
+
+![](https://komarev.com/ghpvc/?username=pmkhambhaita)
 
 <!--
 **pmkhambhaita/pmkhambhaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
