@@ -11,9 +11,10 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on my A-Level Computer Science project!
-- 🌱 I’m currently applying to university!
-- 💬 Ask me about anything!
-- 📫 How to reach me: pmkhambhaita@outlook.com
+- 🌱 I’m taking A-Levels!
+- 🎓 King's College London - MSci Computer Science Offer Holder
+- 💬 Ask me about anything! Discord: @pmkha
+- 📫 Mail: pmkhambhaita@outlook.com
 - 😄 Pronouns: He/Him
 
 [![Praveet's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmkhambhaita)](https://github.com/anuraghazra/github-readme-stats)
