@@ -1,5 +1,5 @@
 ## 👋 Hi there! 
-### I'm Praveet, a student and aspiring computer scientist!
+### I'm Praveet, a student and aspiring degree apprentice!
 
 ![](https://komarev.com/ghpvc/?username=pmkhambhaita)
 
@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 
 -->
 
-🔭 I’m currently working on my A-Level Computer Science project!
-- 🌱 I’m taking A-Levels!
-- 🎓 King's College London - MSci Computer Science Offer Holder
+🔭 I’m in India right now!
+- 🌱 I’ve finished A-Levels!
+- 🎓 Accenture Tech Consultant (Degree Apprenticeship)
 - 💬 Ask me about anything! Discord: @pmkha
 - 📫 Mail: pmkhambhaita@outlook.com
 - 😄 Pronouns: He/Him
