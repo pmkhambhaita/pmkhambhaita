@@ -10,8 +10,6 @@ Here are some ideas to get you started:
 
 -->
 
-🔭 I’m in India right now!
-- 🌱 I’ve finished A-Levels!
 - 🎓 Accenture Tech Consultant (Degree Apprenticeship)
 - 💬 Ask me about anything! Discord: @pmkha
 - 📫 Mail: pmkhambhaita@outlook.com
